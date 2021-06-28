@@ -8,7 +8,7 @@ int main()
     float x,x0,x1;
     int k = 0;
     printf("\n-- METODE REGULA FALSI --\n\n");
-    printf(" oleh :\n\n 1. I Made Suastika (1708561001)\n 2. Muhammad Firyanul Rizky (1708561006)\n 3. I Wayan Gede Indrayasa (1708561030)\n\n");
+    printf(" oleh :\n\n Muhammad Firyanul Rizky (1708561006)\n\n");
     printf("Persamaan yang dipakai adalah x^3 - 5x - 7\n\n");
 
     do  {
